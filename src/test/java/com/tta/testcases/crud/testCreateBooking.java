@@ -1,4 +1,4 @@
-package com.tta.tests.crud;
+package com.tta.testcases.crud;
 
 import com.tta.base.BaseTest;
 import com.tta.endpoints.APIConstants;
